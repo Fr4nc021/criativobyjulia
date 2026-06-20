@@ -69,8 +69,9 @@ export default function App() {
         </h1>
 
         <p className="subtitle">
-          Curadoria de presença digital, narrativa visual e estratégia criativa.
-          Bem-vinda ao meu espaço.
+        Narrativa criativa com estética que comunica.
+          <br />
+          <span className="subtitleHighlight">Bem-vinda ao meu espaço.</span>
         </p>
       </section>
 

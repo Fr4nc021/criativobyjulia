@@ -78,6 +78,12 @@
   line-height: 1.5;
 }
 
+.subtitleHighlight {
+  color: rgba(255, 86, 137, 0.95);
+  font-style: italic;
+  font-weight: 500;
+}
+
 .sectionHeader {
   display: grid;
   grid-template-columns: 1fr auto 1fr;
